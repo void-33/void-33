@@ -15,8 +15,8 @@ Currently diving deep into Computer Engineering at IOE, Pulchowk Campus. I’m a
 
 ## My Skillset At A Glance
 
-- **AI & ML:** `NumPy`, `Matplotlib`, `Pandas`, `PyTorch`, `Tensorflow`, `scikit-learn`
 - **Languages:**  `C`, `C++`, `JavaScript`, `TypeScript`, `Python`
+- **AI & ML:** `NumPy`, `Matplotlib`, `Pandas`, `PyTorch`, `Tensorflow`, `scikit-learn`
 - **Web Tech:**  `HTML`, `CSS`, `JS`, `React`, `Express`, `Node.js`, `MongoDB`
 - **Cloud & DevOps:** `AWS`, `Docker`, `Git`, `Linux`  
 

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Hey there! I'm Sakar KC
 
 Currently diving deep into Computer Engineering at IOE, Pulchowk Campus. I’m all about blending creativity with code. I love crafting solutions that matter and learning something new every day.
